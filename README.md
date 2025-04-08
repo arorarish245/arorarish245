@@ -1,4 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm [Rishita Arora]</h1>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 3rd-year CSE student at VIT Bhopal | CGPA: 9.02
+- 💻 Passionate about building full-stack & AI-powered web apps
+- 👩‍💻 Solved 500+ DSA problems | LeetCode Peak Rating: 1584
+- 🤖 Actively exploring AI and Computer Vision through projects
+- 🚀 Focused on solving real-world problems through tech
+
+---
+
 
 <!--
 **arorarish245/arorarish245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
