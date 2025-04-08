@@ -38,6 +38,28 @@
 
 ---
 
+### 📚 Currently Learning
+
+- 🤖 Emotion-aware AI assistants  
+- 📈 **Live metric tracking** for full-stack apps (views, usage patterns)  
+- 📹 **Gesture-based interaction systems** using YOLOv8, MediaPipe & OpenCV
+
+---
+
+### 📬 Let's Connect
+
+Feel free to reach out😊
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitaarora245@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishita-arora-282882250/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishita__245/)
+
+---
+
+
+
+
+
 
 <!--
 **arorarish245/arorarish245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
