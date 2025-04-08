@@ -12,6 +12,26 @@
 
 ---
 
+### 🔧 Tech Stack & Tools I Work With
+
+#### 💻 **Languages**
+`JavaScript`, `TypeScript`, `Python`, `C++`, `HTML`, `CSS`
+
+#### 🌐 **Web Development**
+`React.js`, `Next.js`, `Node.js + Express.js`, `MongoDB`, `Flask`, `Tailwind CSS`
+
+#### 🤖 **Machine Learning / AI**
+`Scikit-Learn`, `OpenCV`, `MediaPipe`, `YOLOv8`, `FastAPI`, `OpenAI / Gemini API`
+
+#### 🛠️ **Tools**
+`Git`, `Postman`, `VS Code`, `Vercel`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,react,nextjs,nodejs,express,mongodb,flask,tailwind,git,postman,vscode,vercel" />
+</p>
+
+---
+
 
 <!--
 **arorarish245/arorarish245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
