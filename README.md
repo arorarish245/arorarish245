@@ -38,12 +38,6 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=arorarish245&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ### 📚 Currently Learning
 
 - 🤖 Emotion-aware AI assistants  
@@ -61,6 +55,10 @@ Feel free to reach out😊
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rishita__245/)
 
 ---
+
+---
+
+> _"Sometimes the smallest step in the right direction ends up being the biggest step of your life."_
 
 
 
