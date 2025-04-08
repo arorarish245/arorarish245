@@ -38,6 +38,12 @@
 
 ---
 
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arorarish245&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ### 📚 Currently Learning
 
 - 🤖 Emotion-aware AI assistants  
